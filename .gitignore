@@ -1,0 +1,7 @@
+# drptWWeb ignore files
+META-INF
+META-INF/*.*
+
+WEB-INF/
+WEB-INF/*
+WEB-INF/lib/*.*
